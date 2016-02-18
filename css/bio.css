@@ -1,0 +1,23 @@
+
+
+h1{
+	font-family: algerian;
+	text-align: center;
+	color: #F99898;
+}
+
+div{
+	padding:0px 20%  20%;
+	box-shadow: 10px;
+	background-color:  hsl(0,3%,65%);
+	text-align: justify;
+}
+
+#name{
+	font-family: rockwell;
+	color: #716E6E;
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+
+}

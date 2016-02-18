@@ -1,0 +1,20 @@
+
+div{
+	padding:0px 20%  20%;
+	box-shadow: 10px;
+	background-color:  hsl(0,3%,65%);
+	text-align: justify;
+}
+
+img{
+	border-radius: 25px;
+}
+
+span{
+	font-family: arial;
+	font-style: italic;
+	font-size: 25px;
+	color: #F58C8C;
+	text-transform: uppercase;
+	font-weight: bold;
+}

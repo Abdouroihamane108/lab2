@@ -1,0 +1,47 @@
+
+/******* CSS FOR MENU ******/
+
+body{
+	background-color: hsl(0,10%,65%);
+	font-family:Georgia, Times, serif;
+	font-size: 1.3em;
+	color: white;
+
+}
+nav{
+	height: 42px;
+	background-color: #082A67;
+	border-right: 3px;
+
+}
+
+nav ul li{
+	list-style: none;
+	display: inline;
+	
+}
+nav ul li a{
+	float: left;
+	text-decoration: none;
+	color: #E5F3FE;
+	padding: 0 40px;
+	text-align: center;
+	line-height: 42px;
+	height: 42px;
+}
+
+nav ul li a:hover{
+	background-color: #E5F3FE;
+	color: #082A67;
+	border-radius: 8px;
+	font-family: arial;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+nav ul li a.active{
+	background-color: #E5F3FE;
+	color:#082A67;
+	border-radius: 8px;
+
+}
